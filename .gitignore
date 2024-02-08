@@ -25,3 +25,6 @@ inst/ExtData/modis_sinusoidal_grid_world\.shp
 inst/ExtData/modis_sinusoidal_grid_world\.shx
 /doc/
 /Meta/
+MODIStsp.Rcheck/
+MODIStsp*.tar.gz
+MODIStsp*.tgz

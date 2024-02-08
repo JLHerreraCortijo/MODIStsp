@@ -18,7 +18,7 @@ shinydashboard::tabItem(
           label = shiny::span("Platform\u2000",
                               shiny::actionLink("help_platform",
                                                 shiny::icon("question-circle"))),
-          choices = c("Terra", "Aqua", "Both"))
+          choices = c( "Both", "Terra", "Aqua"))
       )
     ),
     shiny::div(

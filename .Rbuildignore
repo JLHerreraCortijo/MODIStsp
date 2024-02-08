@@ -31,3 +31,6 @@
 ^doc$
 ^Meta$
 ^CRAN-SUBMISSION$
+^MODIStsp\.Rcheck$
+^MODIStsp.*\.tar\.gz$
+^MODIStsp.*\.tgz$
